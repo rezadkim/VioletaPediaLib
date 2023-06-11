@@ -31,8 +31,6 @@ Sewaktu-waktu kami dapat menggunakan informasi pribadi anda untuk melakukan pene
 kuesioner dalam rangka peningkatan kualitas layanan. Informasi Pribadi digunakan dalam bentuk tanpa nama
 dan secara keseluruhan untuk memantau lebih dekat fitur-fitur mana dari Layanan yang paling sering
 digunakan, untuk menganalisa pola penggunaan dan akan difokuskan pada peningkatan layanan kami.
-Gambar atau foto yang diunggah dalam aplikasi Violeta Pedia akan digunakan untuk bahan
-verifikasi data atau keperluan lainnya.
 
 3. Pengungkapan Informasi kepada Pihak Ketiga
 Kami tidak akan membagikan informasi pribadi Anda kepada pihak ketiga tanpa persetujuan Anda, kecuali dalam situasi berikut ini:
@@ -60,19 +58,31 @@ Anda tidak boleh mengungkapkan pin keamanan dan kata sandi anda kepada siapapun.
 5. Device Token
 Aplikasi kami dapat menggunakan device token atau teknologi serupa untuk mengumpulkan informasi yang tidak teridentifikasi secara pribadi. Device Token adalah file kecil yang disimpan di perangkat Anda untuk meningkatkan pengalaman pengguna dan analisis.
 
-6. Penghapusan Akun
+6. Upload Kontak List
+Aplikasi kami secara otomatis akan membaca data kontak anda dan akan ditampilkan secara otomatis untuk
+memudahkan anda memasukkan data pada fitur pengisian pulsa atau pembayaran biaya telepon selular ataupun
+telepon rumah, sehingga anda tidak perlu berulang-ulang menuliskan nomor tujuan, system kami juga secara
+otomatis akan menyimpan nomor pelanggan untuk pembayaran listrik PLN baik pasca maupun prabayar,
+pembayaran PDAM, BPJS, TV Berlangganan, Games Online, internet pra maupun pasca, dan pembayaran cicilan
+keuangan.
+
+7. Upload Image
+Gambar atau foto yang diunggah dalam aplikasi Violeta Pedia akan digunakan untuk bahan
+verifikasi data atau keperluan lainnya.
+
+7. Penghapusan Akun
 Jika Anda ingin menghapus akun Anda dari aplikasi Violeta Pedia, Anda dapat mengirimkan permintaan ke alamat whatsapp kami yang tertera di menu costumer service atau di pengaturan akun. Anda dapat menghapus akun anda kapan saja dengan mengakses fitur pengaturan akun yang kami sediakan.
 Dengan menghapus akun anda, anda akan kehilangan akses ke semua layanan dan fitur yang kami tawarkan. Kami akan menghapus semua informasi pribadi anda dari database kami dalam waktu 30 hari sejak anda menghapus akun anda, kecuali jika kami diwajibkan oleh hukum untuk menyimpannya lebih lama. Anda bertanggung jawab untuk membackup atau menyimpan data apapun yang anda inginkan sebelum menghapus akun anda.
 Kami tidak bertanggung jawab atas kerugian apapun yang timbul akibat penghapusan akun anda. Kami berhak untuk menolak permintaan penghapusan akun jika anda masih memiliki kewajiban atau tanggungan kepada kami atau pihak ketiga yang terkait dengan layanan kami.
 
-7. Pernyataan dan Persetujuan
+8. Pernyataan dan Persetujuan
 Dengan menggunakan aplikasi Violeta Pedia, anda menyatakan telah membaca dan memahami
 sepenuhnya atas kebijakan privasi ini. Anda juga menyatakan bahwa anda memberikan hak kepada kami untuk
 menggunakan dan membagikan informasi pribadi anda kepada pihak ketiga dengan alasan yang wajar sejauh yang
 diijinkan oleh ketentuan hukum yang berlaku. Anda setuju untuk tidak melakukan tuntutan apapun kepada
 Violeta Pedia dalam hal pengungkapan informasi pribadi anda.
 
-8. Perubahan Kebijakan Privasi
+9. Perubahan Kebijakan Privasi
 Kami selaku pemilik aplikasi Violeta Pedia secara berkala akan
 meninjau Kebijakan Privasi ini. Jika Kebijakan Privasi ini sudah tidak sesuai dengan ketentuan hukum yang
 berlaku atau dengan kebutuhan pengguna, Kami berhak untuk memperbaharui dan mengubahnya setiap saat.
